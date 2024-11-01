@@ -13,15 +13,15 @@
 ---
 ## Как запустить  
 - Установить расширение в браузер [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- Для установки самого **скрипта** установите [это в расширение]()
-- Открыть [Бота NotPixel]() и запустить игру в браузере
+- Для установки самого **скрипта** установите [это в расширение](https://github.com/TapPlays/AutoClicker-NotPixel/raw/main/notpixel-autoclicker.user.js)
+- Открыть [Бота NotPixel](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dnotpixel%26appname%3Dapp%26startapp%3Df1895812375) и запустить игру в браузере
 ---
 ## Вы можете так же запускать скрипт через официальное приложение Telegram
 - Установите бета верссию [Telegram](https://desktop.telegram.org/changelog#beta-version)
 - Войдите в свой аккаунт и дальше по такому пути:
 - **настройки** > **продвинутые настройки** > **эксперементальные настройки** > **Eneble webview inspecting**
  ![Результат](result.png)
-- Открыть [Бота NotPixel]() и запустить игру в телеграме
+- Открыть [Бота NotPixel](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dnotpixel%26appname%3Dapp%26startapp%3Df1895812375) и запустить игру в телеграме
 - Нажмите правой кнопкой мыши по окну с игрой и выберите **Проверить**
 - Выберите вкладку **Консоль** и вставте туда [данный код]()
 - Нажмите **Enter**
